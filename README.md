@@ -1,23 +1,4 @@
-# 🗣 Chat with Your HTML Files
-
-**Turn Static HTMLs into Interactive Chat Sessions!**
-
-With our innovative approach powered by LangChain and Streamlit, your HTML files are no longer just static documents. Now you can:
-
-- 🗣️ **Interactive Chat Sessions**: Bring your files to life and have meaningful dialogues.
-- 💾 **Local Storage**: Prioritize your privacy; every interaction is kept on your device.
-- 🌐 **Empowered by LLM**: Delve into the advanced tech that drives this experience.
-- ✨ **User-Friendly Design**: Engage effortlessly with your files.
-
-  ![WebApp Preview](README_images/webapp_preview.png)
-
----
-
-## 📝 Remarks
-
-This Web Application is designed for deployment on [Streamlit](https://streamlit.io/).
-
----
+# 🗣 Chat with Your PDF Files
 
 ## 🚀 Quickstart Guide
 
